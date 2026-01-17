@@ -29,7 +29,7 @@ The script will automatically:
 3. Navigate to the project folder
 4. Install all required dependencies
 5. Build the project
-6. Inject the extension into your browser
+6. Inject the extension into your discord
 
 ### Wait for Completion
 
